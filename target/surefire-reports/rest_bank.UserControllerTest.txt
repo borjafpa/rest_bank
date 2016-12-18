@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: rest_bank.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.914 sec - in rest_bank.UserControllerTest

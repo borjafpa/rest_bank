@@ -1,0 +1,16 @@
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/UserRepository.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/UserController.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/TransactionRepository.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/TransactionServiceImpl.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/Transaction.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/TransactionController.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/Balance.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/TransactionService.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/User.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/UserDetailsServiceImpl.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/SecurityService.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/UserService.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/WebSecurityConfig.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/Application.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/SecurityServiceImpl.java
+/home/borja/Documentos/exercises/prestamos_prima_rest/src/main/java/rest_bank/UserServiceImpl.java
